@@ -3,4 +3,4 @@ project(Lab5SO C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(Lab5SO Ej1.c)
+add_executable(Lab5SO Ej3.c)
